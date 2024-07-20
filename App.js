@@ -535,8 +535,6 @@ const styles = StyleSheet.create({
     borderRadius: 30,
     borderColor: "#bdcbce",
     borderWidth: 4,
-    //margin: 100,
-    //marginTop: 40,
   },
   logo: {
     marginBottom: 50,
@@ -576,7 +574,6 @@ const styles = StyleSheet.create({
     flex:2,
     marginTop:30,
     backgroundColor : 'red',
-    //height: "100%",
     height: 1100,
     borderTopLeftRadius: 20 ,
     borderTopRightRadius: 20,
@@ -619,14 +616,11 @@ const styles = StyleSheet.create({
     width: "90%",
     height: 120,
     backgroundColor: "#ffffff",   
-    //alignItems: 'center',
-    //alignContent: 'space-between',
     justifyContent: 'left',
     alignSelf: 'flex-end',
     borderRadius: 9,
     borderColor: "#d7dfe1",  //#DCDCDC
     borderWidth: 4,
-    //textAlign: 'justify',
     fontSize: 30,
     flexDirection: 'row',
 
@@ -654,9 +648,6 @@ const styles = StyleSheet.create({
     fontFamily: 'Roboto', 
     color: "#273b5e",
     justifyContent: 'center',
-    //alignItems: 'flex-start',
-    //textAlign: 'left',
-    //margin: 10,
     fontWeight: 'bold',
     marginLeft: 10,
     marginTop: 8,
@@ -665,7 +656,6 @@ const styles = StyleSheet.create({
   title4: {
     fontSize: 17,
     color: "#273b5e",
-    //justifyContent: 'center',
     marginLeft:10,
     alignItems: 'baseline',
     textAlign: 'justify',
@@ -675,7 +665,6 @@ const styles = StyleSheet.create({
   title7: {
     fontSize: 17,
     color: "#273b5e",
-    //justifyContent: 'center',
     marginLeft:10,
     alignItems: 'baseline',
     textAlign: 'justify',
@@ -688,9 +677,6 @@ const styles = StyleSheet.create({
     color: "#273b5e",
     justifyContent: 'center',
     alignItems: 'flex-start',
-    //textAlign: 'left',
-    //margin: 10,
-    //marginLeft: 45,
     marginTop: 8,
     marginLeft: 3,
     fontWeight: '800',
@@ -698,7 +684,6 @@ const styles = StyleSheet.create({
   title9: {
     fontSize: 17,
     color: "#273b5e",
-    //justifyContent: 'center',
     marginLeft:10,
     alignItems: 'flex-start',
     textAlign: 'justify',
@@ -709,10 +694,6 @@ const styles = StyleSheet.create({
   topicoCaixa: {
     width:  35,
     height: 35,
-    //marginBottom: -40,
-    //marginRight: 15,
-    //marginLeft: 2,
-    //marginRight : -100,
     
   },
   title1: {
@@ -722,9 +703,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'flex-start',
     textAlign: 'left',
-    //margin: 10,
     fontWeight: 'bold',
-    //marginLeft: 4,
   },
   headerContainer1: {
     flex:1,
@@ -733,7 +712,6 @@ const styles = StyleSheet.create({
     height: 130,
     justifyContent: 'center',
     alignItems: 'flex-start',
-    //borderRadius: 10
 
   },
 
@@ -813,8 +791,6 @@ const styles = StyleSheet.create({
   headerCell1: {
     flex: 1,
     paddingVertical: 10,
-    //borderTopRightRadius: 20,
-    //borderTopLeftRadius:20,
     fontWeight: 'bold',
     textAlign: 'center',
     color: '#333',
@@ -883,17 +859,12 @@ const styles = StyleSheet.create({
     width: "90%",
     height: 'auto',
     backgroundColor: "#ffffff",   
-    //alignItems: 'justify',
-    //alignContent: 'space-between',
-    //justifyContent: 'left',
     alignSelf: 'auto',
     borderRadius: 9,
     borderColor: "#d7dfe1",  //#DCDCDC
     borderWidth: 4,
-    //textAlign: 'left',
-    //fontSize: 30,
     marginHorizontal: 20,
-    //flexDirection: 'column',  
+ 
   },
   boxOnbox:{
     flexDirection: 'row',
